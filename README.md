@@ -9,3 +9,4 @@ Just a sandbox repo for completing the [Project Euler](https://projecteuler.net/
 * [Largest prime factor](https://projecteuler.net/problem=3)
 * [Largest palindrome product](https://projecteuler.net/problem=4)
 * [Smallest multiple](https://projecteuler.net/problem=5)
+* [Coin sums](https://projecteuler.net/problem=31)
